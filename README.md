@@ -12,6 +12,8 @@
 
 I design and ship practical systems that make operations cleaner, faster, and easier to scale.
 
+**BAITEKS = Business & AI Technology Solutions**
+
 ---
 
 ## 🧩 Current Build Map
