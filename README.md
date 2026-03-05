@@ -1,4 +1,4 @@
-# Mike Birklett
+# Michael Birklett
 
 <p align="left">
   <strong>⚡ AI Engineer • Agentic Systems Architect • Full-Stack Intelligent Systems Developer</strong>
