@@ -1,7 +1,7 @@
 # Mike Birklett
 
 <p align="left">
-  <strong>⚡ BAITEKS — IT Systems. Operational Intelligence. Applied AI.</strong>
+  <strong>⚡ AI Engineer • Agentic Systems Architect • Full-Stack Intelligent Systems Developer</strong>
 </p>
 
 <p align="left">
