@@ -19,11 +19,13 @@ I design and ship practical AI systems that make operations cleaner, faster, and
 
 ## 🧩 Current Build Map
 
+- **[BAITEKS P6 Intelligence](https://github.com/igobymike/p6-intelligence)** — AI-powered conversational interface for Primavera P6 turnaround schedules. Ask questions in plain English, get answers from a live P6 database. Critical path analysis, resource conflict detection, automated reporting, schedule write-back. Stack: Python, FastAPI, SQL Server, LangChain, Claude API, ChromaDB, networkx
+- **[FIP — Forced Injection Protocol](https://github.com/igobymike/forced-injection-protocol)** — Production-grade async messaging protocol for AI agents. SQLite-backed, priority-aware, with deduplication, retry/backoff, acknowledgment tracking, natural language reply parsing, and a full audit trail. Born from a real autonomous AI system. Stack: Python, SQLite
+- **[FIP Agent Protocol](https://github.com/igobymike/fip-agent-protocol)** — Agent-to-agent messaging layer built on FIP. Federated communication between autonomous AI agents across machines and networks. Peer registration, task delegation, swarm coordination. Stack: Python, SQLite, FastAPI
 - **LIAM** — LaPorte Intelligent Asset Management. AI maintenance agent for industrial plants. Stack: Copilot Studio, Power Automate, SAP, SharePoint
-- **P6 Turnaround Bot** — AI chatbot with direct P6 database connectivity for turnaround schedule analysis, risk identification, and automated reporting. Stack: Python, FastAPI, SQL Server, LangChain, Claude API, ChromaDB, networkx, pandas
-- **Marcus Stack** — Personal autonomous AI operating system. Voice, ambient intelligence, task management, browser control. Stack: Python, Node.js, Whisper, ElevenLabs, SQLite
-- **Marcus Browser Relay** — Custom Chrome extension giving Marcus autonomous control over any website, auto-connecting to every tab. Stack: Chrome MV3, WebSocket, Cloudflare Tunnel
-- **BAITEKS Platform** — Full-stack web platform for AI tools, dashboards, and infrastructure. Stack: Next.js, Node.js, Cloudflare, Tailscale
+- **Marcus Stack** — Personal autonomous AI operating system. Voice, ambient intelligence, task management, browser control, forced injection protocol. Stack: Python, Node.js, Whisper, ElevenLabs, SQLite, OpenClaw
+- **[Marcus Browser Relay](https://github.com/igobymike/marcus-browser-relay)** — Custom Chrome extension giving AI agents autonomous control over any website, auto-connecting to every tab. Stack: Chrome MV3, WebSocket, Cloudflare Tunnel
+- **[BAITEKS Platform](https://github.com/igobymike/baiteks-site)** — Full-stack web platform for AI tools, dashboards, and infrastructure. Stack: Node.js, Cloudflare, Tailscale
 - **Kuraray Maintenance Scheduler** — Python/Flask app for monthly maintenance schedule generation and WO tracking. Stack: Python, Flask, SAP PM
 - **SAP PM/MM + EAM** — Field-realistic process optimization
 - **Operational Decision Systems** — KPI pipelines + reporting infrastructure
@@ -55,6 +57,7 @@ I design and ship practical AI systems that make operations cleaner, faster, and
 - SAP PM/MM and asset-management workflows
 - Process redesign for operations teams
 - Applied AI workflow automation
+- AI agent communication protocols
 - Infrastructure and platform reliability
 - Industrial AI — maintenance intelligence, turnaround analysis
 
@@ -75,7 +78,7 @@ I design and ship practical AI systems that make operations cleaner, faster, and
 `Primavera P6` `SAP PM/MM` `networkx` `pandas` `xerparser` `Power BI` `Copilot Studio` `Power Automate`
 
 **Infrastructure**
-`Docker` `Linux` `Cloudflare` `Tailscale` `PM2` `OVH` `AWS`
+`Docker` `Linux` `Cloudflare` `Tailscale` `PM2` `OVH` `AWS` `OpenClaw`
 
 ---
 
