@@ -13,7 +13,7 @@
 
 I design and build intelligent systems that connect industrial operations with modern software and AI. My work focuses on applied AI engineering, agentic system architectures, and full-stack system development that transforms operational data into practical decision tools. With over a decade of experience in maintenance, reliability, and enterprise platforms like SAP and Primavera P6, I specialize in bridging real-world operational problems with scalable technical solutions — building systems that improve planning, diagnostics, and execution across industrial environments.
 
-Founder of BAITEKS = Business & AI Technology Solutions** | Houston, TX
+Founder of BAITEKS = Business & AI Technology Solutions| Houston, TX
 
 ---
 
