@@ -1,64 +1,49 @@
 # Mike Birklett
 
-<p align="left">
-  <strong>⚡ BAITEKS — IT Systems. Operational Intelligence. Applied AI.</strong>
-</p>
+⚡ BAITEKS — IT Systems. Operational Intelligence. Applied AI.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Execution-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-IT%20Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Builder-22c55e?style=for-the-badge" />
-</p>
+Venture operator and systems engineer. I build practical AI systems that make industrial operations cleaner, faster, and easier to scale.
 
-I design and ship practical systems that make operations cleaner, faster, and easier to scale.
-
-**BAITEKS = Business & AI Technology Solutions**
+BAITEKS = Business and AI Technology Solutions | Houston, TX
 
 ---
 
-## 🧩 Current Build Map
+## What I am Building
 
-- **BAITEKS** — execution-first IT + AI systems delivery
-- **Marcus Stack** — personal AI operations environment
-- **SAP PM/MM + EAM** — field-realistic process optimization
-- **Operational Decision Systems** — KPI pipelines + reporting infrastructure
-
----
-
-## ⚔️ Operating Principles
-
-- **Execution > theory**
-- **Simple scales better than clever**
-- **Security and reliability are non-negotiable**
-- **Build for compounding leverage**
-- **Ship useful systems, not vanity features**
+- **LIAM** — LaPorte Intelligent Asset Management. AI maintenance agent for industrial plants. Stack: Copilot Studio, Power Automate, SAP, SharePoint
+- **P6 Turnaround Bot** — AI chatbot that ingests Primavera P6 schedules, identifies risks, generates reports. Stack: Python, FastAPI, LangChain, Claude API
+- **Marcus** — Personal autonomous AI operating system. Voice, ambient intelligence, task management. Stack: Python, Node.js, Whisper, ElevenLabs, SQLite
+- **BAITEKS Platform** — Full-stack web platform for AI tools and dashboards. Stack: Next.js, Node.js, Cloudflare, Tailscale
+- **Kuraray Maintenance Scheduler** — Python/Flask app for monthly maintenance schedule generation. Stack: Python, Flask, SAP PM
 
 ---
 
-## 🛠️ Focus Areas
+## Background
 
-- IT systems architecture
-- SAP PM/MM and asset-management workflows
-- Process redesign for operations teams
-- Applied AI workflow automation
-- Infrastructure and platform reliability
-
----
-
-## 🧱 Stack
-
-`TypeScript` `Python` `Node.js` `Next.js` `SQL` `Cloudflare` `Docker` `Linux` `SAP PM/MM`
+- Maintenance Scheduler + SAP Expert at Kuraray — vinyl chemicals plant, Houston
+- EAM Consultant at Prometheus Group / GoRYO — 6 years, 550+ users trained across chemicals, manufacturing, oil and gas
+- Deep expertise: SAP PM/MM, Primavera P6, EAM platforms, Power BI, Microsoft Copilot Studio
+- MS in Artificial Intelligence — Lewis University, graduating Fall 2026
 
 ---
 
-## 🚀 Featured Work
+## Operating Principles
 
-- [BAITEKS Site](https://baiteks.com) — public-facing execution platform
-- [baiteks-site](https://github.com/igobymike/baiteks-site) — active Next.js web stack
+- Execution over theory
+- Simple scales better than clever
+- Security and reliability are non-negotiable
+- Build for compounding leverage
+- Ship useful systems, not vanity features
 
 ---
 
-## 🤝 Connect
+## Stack
 
-- LinkedIn: [michaelbirklett](https://www.linkedin.com/in/michaelbirklett)
-- Website: [baiteks.com](https://baiteks.com)
+Python · TypeScript · Node.js · Next.js · SQL · Cloudflare · Linux · SAP PM/MM · LangChain · Power Automate · Copilot Studio · Power BI · Primavera P6
+
+---
+
+## Links
+
+- https://baiteks.com
+- https://www.linkedin.com/in/michaelbirklett
