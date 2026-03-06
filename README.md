@@ -1,7 +1,7 @@
-# Mike Birklett
+# Michael Birklett
 
 <p align="left">
-  <strong>⚡ BAITEKS — IT Systems. Operational Intelligence. Applied AI.</strong>
+  <strong>⚡ AI Engineer • Agentic Systems Architect • Full-Stack Intelligent Systems Developer</strong>
 </p>
 
 <p align="left">
@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/MS-Artificial%20Intelligence-6366f1?style=for-the-badge" />
 </p>
 
-I design and ship practical AI systems that make operations cleaner, faster, and easier to scale.
+I design and build intelligent systems that connect industrial operations with modern software and AI. My work focuses on applied AI engineering, agentic system architectures, and full-stack system development that transforms operational data into practical decision tools. With over a decade of experience in maintenance, reliability, and enterprise platforms like SAP and Primavera P6, I specialize in bridging real-world operational problems with scalable technical solutions — building systems that improve planning, diagnostics, and execution across industrial environments.
 
-**BAITEKS = Business & AI Technology Solutions** | Houston, TX
+Founder of BAITEKS = Business & AI Technology Solutions | Houston, TX
 
 ---
 
@@ -60,6 +60,7 @@ I design and ship practical AI systems that make operations cleaner, faster, and
 - Process redesign for operations teams
 - Applied AI workflow automation
 - AI agent communication protocols
+- Infrastructure and platform reliability
 - Industrial AI — maintenance intelligence, turnaround analysis, adoption strategy
 
 ---
@@ -79,7 +80,7 @@ I design and ship practical AI systems that make operations cleaner, faster, and
 `Primavera P6` `SAP PM/MM` `networkx` `pandas` `xerparser` `Power BI` `Power Automate`
 
 **Infrastructure**
-`Linux` `Cloudflare` `Tailscale` `PM2` `OVH Dedicated Server` `OpenClaw`
+`Docker` `Linux` `Cloudflare` `Tailscale` `PM2` `OVH` `AWS` `OpenClaw`
 
 ---
 
