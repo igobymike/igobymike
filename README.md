@@ -19,7 +19,7 @@ Founder of BAITEKS = Business & AI Technology Solutions | Houston, TX
 
 ## 🧩 Current Build Map
 
-- **[BAITEKS P6 Intelligence](https://github.com/igobymike/p6-intelligence)** — AI-powered conversational interface for Primavera P6 turnaround schedules. Ask questions in plain English, get answers from a live P6 database. Critical path analysis, resource conflict detection, automated reporting, schedule write-back. Stack: Python, FastAPI, SQL Server, LangChain, Claude API, ChromaDB, networkx
+- **[BAITEKS Intelligence Platform](https://github.com/igobymike/baiteks-platform)** — AI-powered operational intelligence platform. Conversational interface for Primavera P6 turnaround schedules, SAP master data, and industrial document libraries. Ask questions in plain English, get answers from live databases. Critical path analysis, resource conflict detection, automated reporting, schedule write-back. Full-stack web platform with marketing site, dashboards, and API. Stack: Python, FastAPI, SQL Server, PostgreSQL, pgvector, LangChain, Claude API, ChromaDB, networkx, Next.js, Plasmic, Node.js, Cloudflare, Tailscale
 - **[LIAM — LaPorte Intelligent Asset Management](https://github.com/igobymike/liam-maintenance-agent)** — AI-powered maintenance planning assistant for industrial plants. Generates structured job plans from historical SAP PM work orders, maintains a proactive job plan library for common failure modes, and delivers daily maintenance summaries to Teams. Stack: Copilot Studio, Power Automate, SharePoint, SAP PM export
 - **[BAITEKS AI Adoption Accelerator](https://github.com/igobymike/ai-adoption-accelerator)** — Structured AI adoption program for industrial workplaces. Role-based question generation, engineered wow moments, 3-stage Spark/Embed/Own framework. Turns generic demos into actual behavior change. Stack: Python, FastAPI, Claude API, React
 - **[BAITEKS Copilot Memory Layer](https://github.com/igobymike/copilot-memory-layer)** — Persistent memory for Copilot Studio agents. Two-layer architecture: User Memory (personalization) + Plant Memory (institutional knowledge that survives retirements). SQL/Dataverse backend, Power Automate flows. Stack: SQL Server, Dataverse, Power Automate, Copilot Studio
@@ -27,7 +27,6 @@ Founder of BAITEKS = Business & AI Technology Solutions | Houston, TX
 - **[FIP Agent Protocol](https://github.com/igobymike/fip-agent-protocol)** — Agent-to-agent messaging layer built on FIP. Federated communication between autonomous AI agents across machines and networks. Peer registration, task delegation, swarm coordination. Stack: Python, SQLite, FastAPI
 - **Marcus Stack** — Personal autonomous AI operating system. Voice, ambient intelligence, task management, browser control, forced injection protocol. Stack: Python, Node.js, Whisper, ElevenLabs, SQLite, OpenClaw
 - **[Marcus Browser Relay](https://github.com/igobymike/marcus-browser-relay)** — Custom Chrome extension giving AI agents autonomous control over any website, auto-connecting to every tab. Stack: Chrome MV3, WebSocket, Cloudflare Tunnel
-- **[BAITEKS Platform](https://github.com/igobymike/baiteks-site)** — Full-stack web platform for AI tools, dashboards, and infrastructure. Stack: Node.js, Cloudflare, Tailscale
 - **Kuraray Maintenance Scheduler** — Python/Flask app for monthly maintenance schedule generation and WO tracking. Stack: Python, Flask, SAP PM
 - **SAP PM/MM + EAM** — Field-realistic process optimization
 - **Operational Decision Systems** — KPI pipelines + reporting infrastructure
@@ -36,10 +35,16 @@ Founder of BAITEKS = Business & AI Technology Solutions | Houston, TX
 
 ## 💼 Background
 
-- **Maintenance Scheduler + SAP Expert** @ Kuraray — vinyl chemicals plant, Houston
-- **EAM Consultant** @ Prometheus Group / GoRYO — 6 years, 550+ end-users trained across chemicals, manufacturing, oil & gas
-- Deep expertise: SAP PM/MM, Primavera P6, EAM platforms, Power BI, Microsoft Copilot Studio
-- MS in Artificial Intelligence — Lewis University (graduating Fall 2026)
+- **Founder** @ [BAITEKS](https://baiteks.com) (Business & AI Technology Solutions) — building AI-powered operational intelligence platforms for industrial teams
+- **10+ years in industrial operations** — maintenance scheduling, turnaround execution, SAP PM/MM administration, and reliability-focused process improvement at chemical plants, refineries, and manufacturing facilities across the US and Canada
+- **Senior SAP Functional/Technical Consultant** — 5+ years leading end-to-end SAP PM/MM implementations, EAM platform deployments, SPRO configuration, RICEFW development, master data governance, and gap assessments. 550+ end-users trained across oil & gas, chemical, food production, and energy industries
+- **Turnaround Scheduler** — planned and executed 5 multi-million-dollar maintenance turnarounds with structured sequencing logic, resource modeling, critical path analysis, and cross-functional schedule control
+- **Maintenance Planning & Scheduling** — built data-driven daily/weekly schedules integrating asset criticality, labor capacity, production constraints, and execution readiness. Maintained 90–95% craft utilization across 25–30 person crews
+- **Full-stack AI development:** Python, TypeScript, FastAPI, Next.js, React, PostgreSQL, SQL Server — agentic architectures, LLM tool-use, RAG pipelines, vector search, voice systems
+- **SAP & enterprise systems:** PM/MM configuration, work management process design, master data governance, Primavera P6, Power BI, Microsoft Copilot Studio, Power Automate, Dataverse
+- **CMRP Certified** (Certified Maintenance & Reliability Professional)
+- **U.S. Army Veteran** — Texas Army National Guard, 6 years, Paratrooper / Motor Transport Operator
+- **MS in Artificial Intelligence** — Lewis University (graduating Fall 2026)
 
 ---
 
