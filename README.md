@@ -19,7 +19,8 @@ Founder of BAITEKS = Business & AI Technology Solutions | Houston, TX
 
 ## 🧩 Current Build Map
 
-- **[BAITEKS Intelligence Platform](https://github.com/igobymike/baiteks-platform)** — AI-powered operational intelligence platform. Conversational interface for Primavera P6 turnaround schedules, SAP master data, and industrial document libraries. Ask questions in plain English, get answers from live databases. Critical path analysis, resource conflict detection, automated reporting, schedule write-back. Full-stack web platform with marketing site, dashboards, and API. Stack: Python, FastAPI, SQL Server, PostgreSQL, pgvector, LangChain, Claude API, ChromaDB, networkx, Next.js, Plasmic, Node.js, Cloudflare, Tailscale
+- **[BAITEKS Intelligence Platform](https://github.com/igobymike/baiteks-platform)** — AI-powered operational intelligence platform. Conversational interface for Primavera P6 turnaround schedules, SAP master data, and industrial document libraries. Ask questions in plain English, get answers from live databases. Critical path analysis, resource conflict detection, automated reporting, schedule write-back. Stack: Python, FastAPI, SQL Server, PostgreSQL, pgvector, Claude Agentic Tool-Use, sentence-transformers, networkx, Next.js, Node.js, Cloudflare, Tailscale
+- **[BAITEKS P&ID Scout](https://github.com/igobymike/baiteks-pid-scout)** — Plant engineering platform for verifying instrument tags and valve codes against P&ID drawings. Batch scan, confirmed connections, viewer with tag highlighting, symbol auto-detection (Roboflow/YOLO). Stack: Python, FastAPI, PostgreSQL RLS, React, TypeScript, Tailwind, ezdxf, PyMuPDF, Tesseract, Roboflow, YOLOv8
 - **[LIAM — LaPorte Intelligent Asset Management](https://github.com/igobymike/liam-maintenance-agent)** — AI-powered maintenance planning assistant for industrial plants. Generates structured job plans from historical SAP PM work orders, maintains a proactive job plan library for common failure modes, and delivers daily maintenance summaries to Teams. Stack: Copilot Studio, Power Automate, SharePoint, SAP PM export
 - **[BAITEKS AI Adoption Accelerator](https://github.com/igobymike/ai-adoption-accelerator)** — Structured AI adoption program for industrial workplaces. Role-based question generation, engineered wow moments, 3-stage Spark/Embed/Own framework. Turns generic demos into actual behavior change. Stack: Python, FastAPI, Claude API, React
 - **[BAITEKS Copilot Memory Layer](https://github.com/igobymike/copilot-memory-layer)** — Persistent memory for Copilot Studio agents. Two-layer architecture: User Memory (personalization) + Plant Memory (institutional knowledge that survives retirements). SQL/Dataverse backend, Power Automate flows. Stack: SQL Server, Dataverse, Power Automate, Copilot Studio
@@ -73,19 +74,25 @@ Founder of BAITEKS = Business & AI Technology Solutions | Houston, TX
 ## 🧱 Stack
 
 **Languages & Frameworks**
-`Python` `TypeScript` `Node.js` `Next.js` `FastAPI` `Flask` `React` `SQL` `Bash` `PowerShell`
+`Python` `TypeScript` `JavaScript` `Node.js` `FastAPI` `Flask` `React` `Vite` `Tailwind CSS` `shadcn/ui` `Pydantic` `Jinja2` `SQL` `Bash` `PowerShell`
 
 **AI / ML**
-`LangChain` `Claude API` `ChromaDB` `sentence-transformers` `Whisper` `ElevenLabs` `Pyannote` `OpenAI API` `Microsoft Copilot Studio` `AI Builder`
+`Claude API` `Agentic Tool-Use (Claude)` `Roboflow` `YOLOv8 / Ultralytics` `sentence-transformers` `pgvector` `LangChain` `ChromaDB` `Whisper` `ElevenLabs` `Pyannote` `OpenAI API` `Microsoft Copilot Studio` `AI Builder`
+
+**Computer Vision & Document Processing**
+`Roboflow Universe` `YOLOv8 / Ultralytics` `OpenCV` `Tesseract OCR` `PyMuPDF` `ezdxf` `PDF.js` `Pillow` `ISA 5.1 P&ID Symbol Detection`
 
 **Databases**
-`SQL Server` `SQLite` `PostgreSQL` `SQLAlchemy` `pyodbc` `Dataverse`
+`PostgreSQL` `pgvector` `SQL Server` `SQLite` `SQLAlchemy` `pyodbc` `Dataverse` `Row Level Security (multi-tenant)`
 
 **Scheduling & Industrial**
-`Primavera P6` `SAP PM/MM` `networkx` `pandas` `xerparser` `Power BI` `Power Automate`
+`Primavera P6` `SAP PM/MM` `P&ID / Piping & Instrumentation Diagrams` `ISA 5.1` `networkx` `pandas` `xerparser` `Power BI` `Copilot Studio` `Power Automate`
 
 **Infrastructure**
-`Docker` `Linux` `Cloudflare` `Tailscale` `PM2` `OVH` `AWS` `OpenClaw`
+`Docker` `Docker Compose` `nginx` `Linux` `Cloudflare` `Tailscale` `PM2` `OVH Dedicated` `JWT Auth` `OpenClaw`
+
+**Soft Skills**
+`Turnaround Planning & Schedule Intelligence` `Industrial Operations (Chemical / Refining / O&G)` `EAM / Asset Management` `Customer-Facing Product Development` `Solo Full-Stack Development` `Multi-Agent System Design` `Technical Documentation` `AI Workflow Design`
 
 ---
 
